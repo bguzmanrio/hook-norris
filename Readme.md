@@ -22,6 +22,6 @@ This feats the custom hook, and includes a hash from the last updated time that 
 ## Testing it
 
 If you want to run this examples to see how them work, do as follows:
-1. yarn or npm i
-2. npm start
+1. `yarn` or `npm i`
+2. `npm start`
 3. Go to localhost:8080
