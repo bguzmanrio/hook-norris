@@ -7,6 +7,7 @@ This use case feats:
 
 * componentDidMount
 * State management
+* Event handling
 * React ref
 * componentDidUpdate
 
